@@ -37,7 +37,7 @@ public class register {
         System.out.print(email);
         System.out.print(password);
         System.out.print(cpassword);
-        
+
 
 
 
